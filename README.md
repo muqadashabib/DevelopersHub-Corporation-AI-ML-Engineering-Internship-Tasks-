@@ -47,4 +47,5 @@ This repository contains my completed internship tasks for DevelopersHub Corpora
 ---
 
 ## Author
-AI/ML Engineering Intern
+Muqadas Habib(AI/ML Engineering Intern)
+
